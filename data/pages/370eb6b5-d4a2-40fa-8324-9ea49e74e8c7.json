@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Synthetic Media: AI and ICE",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "synthetic-media-ai-and-ice",
+  "created_at": "2026-02-27T23:02:54.169Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2026-02-27T23:02:54.169Z",
+  "updated_by": "trentwintermeier"
+}
