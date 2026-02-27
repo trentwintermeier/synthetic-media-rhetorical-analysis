@@ -1,1 +1,121 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"trentwintermeier","avatar_url":"https://avatars.githubusercontent.com/u/112954339?v=4","admin":true}],"project":{"github_org":"trentwintermeier","is_private":false,"title":"Synthetic Media Rhetorical Analysis","description":"This is a collection of AVAnnotate projects created by students in RHE 309J: Rhetoric of AI in spring 2026.","language":"en","slug":"synthetic-media-rhetorical-analysis","creator":"trentwintermeier","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"color":"#A3A3A3","category":"_uncategorized_"}],"tags":[{"category":"_uncategorized_","tag":"Tone"},{"category":"_uncategorized_","tag":"Communicator"},{"category":"_uncategorized_","tag":"Stakeholder"},{"category":"_uncategorized_","tag":"Setting"},{"category":"_uncategorized_","tag":"Context"},{"category":"_uncategorized_","tag":"Ethos"},{"category":"_uncategorized_","tag":"Pathos"},{"category":"_uncategorized_","tag":"Audience"},{"category":"_uncategorized_","tag":"Diction"},{"category":"_uncategorized_","tag":"Exigence"},{"category":"_uncategorized_","tag":"Purpose"},{"category":"_uncategorized_","tag":"Medium"},{"category":"_uncategorized_","tag":"Notes"},{"category":"_uncategorized_","tag":"Logos"},{"category":"_uncategorized_","tag":"Message"}]},"created_at":"2026-02-27T21:58:55.571Z","updated_at":"2026-02-27T22:47:24.972Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"b3613e07-8757-40d5-853f-1cd526616cb2":{"content":[],"created_at":"2026-02-27T21:58:55.610Z","created_by":"trentwintermeier","title":"Synthetic Media Rhetorical Analysis","updated_at":"2026-02-27T21:58:55.610Z","updated_by":"trentwintermeier","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["b3613e07-8757-40d5-853f-1cd526616cb2"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "trentwintermeier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112954339?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "trentwintermeier",
+    "is_private": false,
+    "title": "Synthetic Media Rhetorical Analysis",
+    "description": "This is a collection of AVAnnotate projects created by students in RHE 309J: Rhetoric of AI in spring 2026.",
+    "language": "en",
+    "slug": "synthetic-media-rhetorical-analysis",
+    "creator": "trentwintermeier",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "color": "#A3A3A3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tone"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Communicator"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stakeholder"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Setting"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Context"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Diction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Exigence"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Purpose"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Medium"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Message"
+        }
+      ]
+    },
+    "created_at": "2026-02-27T21:58:55.571Z",
+    "updated_at": "2026-02-27T23:00:57.647Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "b3613e07-8757-40d5-853f-1cd526616cb2": {
+      "content": [],
+      "created_at": "2026-02-27T21:58:55.610Z",
+      "created_by": "trentwintermeier",
+      "title": "Synthetic Media Rhetorical Analysis",
+      "updated_at": "2026-02-27T21:58:55.610Z",
+      "updated_by": "trentwintermeier",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "b3613e07-8757-40d5-853f-1cd526616cb2"
+  ]
+}

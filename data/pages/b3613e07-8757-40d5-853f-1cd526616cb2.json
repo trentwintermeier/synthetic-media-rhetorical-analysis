@@ -76,6 +76,23 @@
               ]
             },
             {
+              "type": "image",
+              "url": "https://ia903102.us.archive.org/6/items/best1_202602/deepfake.avif",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "paragraph",
               "children": [
                 {
@@ -91,16 +108,29 @@
           "type": "column",
           "children": [
             {
-              "type": "grid",
-              "layout": [
-                6
-              ],
+              "type": "paragraph",
               "children": [
                 {
                   "text": ""
                 }
-              ],
-              "align": "center"
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://ia903102.us.archive.org/6/items/best1_202602/ai1.avif",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             },
             {
               "type": "grid",
@@ -137,6 +167,23 @@
               ]
             },
             {
+              "type": "image",
+              "url": "https://ia903102.us.archive.org/6/items/best1_202602/best1.avif",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "paragraph",
               "children": [
                 {
@@ -150,6 +197,23 @@
         {
           "type": "column",
           "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://ia903102.us.archive.org/6/items/best1_202602/ai2.avif",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
             {
               "type": "paragraph",
               "children": [
@@ -268,7 +332,7 @@
   "created_at": "2026-02-27T21:58:55.610Z",
   "created_by": "trentwintermeier",
   "title": "Synthetic Media Rhetorical Analysis",
-  "updated_at": "2026-02-27T22:47:24.801Z",
+  "updated_at": "2026-02-27T23:00:57.273Z",
   "updated_by": "trentwintermeier",
   "autogenerate": {
     "enabled": false,
