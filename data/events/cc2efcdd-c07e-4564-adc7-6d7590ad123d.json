@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "a990fd75-c6ec-48c7-8354-d68d2efa37dc": {
+      "label": "AV File 1",
+      "file_url": "https://ia600700.us.archive.org/9/items/obamaDeepfake/obamaDeepfake.mp4",
+      "duration": 72,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-02-27T22:32:00.276Z",
+  "created_by": "trentwintermeier",
+  "label": "Barack Obama Deepfake",
+  "updated_at": "2026-02-27T22:32:00.276Z",
+  "updated_by": "trentwintermeier",
+  "rights_statement": ""
+}
