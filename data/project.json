@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "trentwintermeier",
+    "is_private": false,
+    "title": "Synthetic Media Rhetorical Analysis",
+    "description": "This is a collection of AVAnnotate projects created by students in RHE 309J: Rhetoric of AI in spring 2026.",
+    "language": "en",
+    "slug": "synthetic-media-rhetorical-analysis",
+    "creator": "trentwintermeier",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-02-27T21:58:55.571Z",
+    "updated_at": "2026-02-27T21:58:55.571Z"
   }
 }
