@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "1696ecff-488f-4798-9e20-3c4a13e2aa35",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-02-27T22:02:08.223Z",
   "created_by": "trentwintermeier",
   "title": "AI Reporter on Canada blocking banks",
   "slug": "ai-reporter-on-canada-blocking-banks",
-  "updated_at": "2026-02-27T22:02:08.223Z",
+  "updated_at": "2026-02-27T22:03:52.369Z",
   "updated_by": "trentwintermeier",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "1696ecff-488f-4798-9e20-3c4a13e2aa35"
   }
