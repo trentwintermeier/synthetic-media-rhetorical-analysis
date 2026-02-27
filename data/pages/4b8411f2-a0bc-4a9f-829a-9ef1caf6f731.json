@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "0961b9e8-6692-4a22-96a8-d3194a85924c",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-02-27T22:32:52.671Z",
   "created_by": "trentwintermeier",
   "title": "Anderson Cooper Deepfake ",
   "slug": "anderson-cooper-deepfake",
-  "updated_at": "2026-02-27T22:32:52.671Z",
+  "updated_at": "2026-02-27T22:33:18.609Z",
   "updated_by": "trentwintermeier",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "0961b9e8-6692-4a22-96a8-d3194a85924c"
   }
