@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "cec4d39c-e2e5-438d-bcf8-262589071479": {
+      "label": "AV File 1",
+      "file_url": "https://ia601900.us.archive.org/33/items/reddit-video/Reddit%20Video.mp4",
+      "duration": 130,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-02-27T22:02:33.346Z",
+  "created_by": "trentwintermeier",
+  "label": "AI Report of Man on the Moon",
+  "updated_at": "2026-02-27T22:02:33.346Z",
+  "updated_by": "trentwintermeier",
+  "rights_statement": ""
+}
