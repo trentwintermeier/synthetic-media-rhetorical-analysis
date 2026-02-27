@@ -24,11 +24,65 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "color": "#A3A3A3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tone"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Communicator"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stakeholder"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Setting"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Context"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Diction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Exigence"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Purpose"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Medium"
+        }
+      ]
     },
     "created_at": "2026-02-27T21:58:55.571Z",
-    "updated_at": "2026-02-27T21:58:55.571Z",
+    "updated_at": "2026-02-27T22:01:33.000Z",
     "generate_pages_site": true
   },
   "annotations": {},
