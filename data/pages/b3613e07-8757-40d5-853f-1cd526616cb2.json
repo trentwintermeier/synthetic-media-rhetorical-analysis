@@ -318,7 +318,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "For more information about this lesson, please see the \"Synthetic Media Rhetorical Analysis\" assignment sheet. Reach out to Trent Wintermeier with any questions or concerns about this project."
+          "text": "For more information about this lesson, please see the "
+        },
+        {
+          "text": "\"Synthetic Media Rhetorical Analysis\" assignment sheet",
+          "link": "https://drive.google.com/file/d/17bCLBJLOJ1Jgw1vCww_ZmSJ2O3m116zf/view?usp=sharing"
+        },
+        {
+          "text": ". Reach out to Trent Wintermeier with any questions or concerns about this project."
         }
       ]
     },
@@ -334,7 +341,7 @@
   "created_at": "2026-02-27T21:58:55.610Z",
   "created_by": "trentwintermeier",
   "title": "Synthetic Media Rhetorical Analysis",
-  "updated_at": "2026-02-27T23:01:47.050Z",
+  "updated_at": "2026-02-27T23:04:13.687Z",
   "updated_by": "trentwintermeier",
   "autogenerate": {
     "enabled": false,
