@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Works Cited",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "works-cited",
+  "created_at": "2026-02-27T23:03:28.882Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2026-02-27T23:03:28.882Z",
+  "updated_by": "trentwintermeier"
+}
