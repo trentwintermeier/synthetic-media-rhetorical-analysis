@@ -1,0 +1,247 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Project by Ellie Walters, Miguel Sanchez, Dang Tran, and Issac Mendoza",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Our project focuses on rhetorically analyzing deepfakes and other forms of synthetic media, and on how AI-generated weather reports and similar news-style videos have become a growing problem in today’s media world. We center our attention on examining how artificial intelligence can be used to craft persuasive yet completely misleading content that mimics convincing journalism. As AI becomes rapidly more advanced, it is increasingly difficult for viewers to distinguish between real and entirely fabricated reports. To explore this issue in depth, we have analyzed three AI-generated videos that present information in different rhetorical forms. Our first video is a weather report designed to engage with the audience to boost views. The second is a documentary-style video about a “new man on the moon” landing, which relies on storytelling to appear investigative and real, and to convince the viewer that the moon landing is fake. The last video is a serious and fabricated news report about Canada blocking banks, presenting completely false information to provoke viewers into commenting which contributes to video engagement. All together, these audiovisual events demonstrate how AI-generated videos can adopt many features of actual media and spread false information, underscoring the need for audiences to develop critical analysis skills. This is especially important in a broadening AI media landscape where trust in media (news, etc) is broken down (Gamage et al) when studies show it’s difficult for people to realize some media are deepfakes despite being told it is (Soto-Sanfiel, T, and Wu 6)."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "AI Weather Man",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This AI Youtube weather report video was chosen for rhetorical analysis after Ryan Hall Y’all, a real online/digital meteorologist, started having deepfakes made of his likeness reporting weather with bad data and this video’s channel/creator was one of the people making deepfakes of Ryan. The video is noticeably made by AI within the first few seconds with the extraordinarily smooth-skinned older gentlemen whose mouth movements do not match what he says. The overall video goes over real weather events that were forecasted around Valentines day of 2026 where the Northeast US was battered with cold weather and the South was warming up, however the data presented was haphazardly put together with low effort markers made on heat maps which had no context due to being on-screen for less than 5 seconds with no legends due to cropping before random snow footage showed up. The video tries to seem real with all of this together, and tries to fish for engagement with viewers by repeatedly asking what cities they live in to be commented. This is a normal Youtube video algorithm boost tactic as comments show engagement on a video and thus bring more views. This illustrates how making low effort stitches of footage with an easily made AI reporter brings in views with minimal effort without the cost of meteorology crew/equipment/production would be lucrative for the channel/creator. This is shown to work too, because in the comments of the video there are mostly comments of locations people are at with little to no one mentioning that the video is AI made."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "AI Report of Man on the Moon",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "We chose this video for our AI Disinformation project because, although it presents itself as a news-style report, it stands out from the other videos we analyzed. Instead of delivering straightforward information about the weather and the like, this video is structured like a story or a documentary clip. This unique video showcases the power of AI-generated content, demonstrating its ability to create something cinematic. This video is entirely AI-generated, including the reporter, the interview clips, the visuals, and even the voices. The information presented is also fabricated. The story centers on several speakers presenting their opinions and perspectives on a new “man on the moon” landing. This video mimics the style of investigative journalism, with a serious, ominous tone and personal testimonies that enhance credibility. We ultimately chose this video among others because it demonstrates how AI can blur the line between storytelling and misinformation. In the broader context of AI disinformation rhetoric, this example highlights how easily audiences can be compelled when artificial content is blended into a familiar format; documentary-style videos feel more personal and influential to many. This video raises many serious questions about credibility and how viewers should evaluate what they see online."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "AI Reporter on Canada Blocking Banks",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This video depicts an AI reporter/commentator talking about Canada blocking the operation of US banks within their grounds as of 2/19/2026. This video was chosen for rhetorical analysis because it is a false report and the event it tries to cover was back in March of 2025 when Trump claimed Canada blocked US banks in order to support his goal of annexing Canada according to CNN (Daniel). The video is noticeably AI made with the use of another older gentleman making minimal movements with a green screen background and uncanny movements/artifacting throughout the 20 minutes of footage. There’s neither data or footage shown, and it’s just the AI reporter the entire time. Overall the video is trying to garner views through fake/irrelevant news, or “ragebaiting.” This works for gaining more views as it makes viewers want to comment their thoughts on the geopolitical and economic climate between the US and Canada. This is evident because people are commenting on the video their displeasure with how the US is operating or some presumably Canadian commenters saying the US deserved the loss of bank operation in Canada. In the newer comments however, some folk did point out the “news” was fake or wrong and/or questioned or stated the video was synthetically made."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "AI Disinformation Rhetorics",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "ai-disinformation-rhetorics",
+  "created_at": "2026-02-27T22:12:17.792Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2026-02-27T22:12:17.792Z",
+  "updated_by": "trentwintermeier"
+}
