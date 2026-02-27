@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "c7fbf0f6-513e-4764-9ce7-ba04116018e6": {
+      "label": "AV File 1",
+      "file_url": "https://ia600700.us.archive.org/9/items/obamaDeepfake/instagram-video-1771431007688.mp4",
+      "duration": 18,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": false,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-02-27T22:31:31.890Z",
+  "created_by": "trentwintermeier",
+  "label": "Mark Zuckerberg Deepfake ",
+  "updated_at": "2026-02-27T22:31:31.890Z",
+  "updated_by": "trentwintermeier",
+  "rights_statement": ""
+}
