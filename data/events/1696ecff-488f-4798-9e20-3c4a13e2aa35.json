@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "53217e9a-5557-4707-9983-de5f8142cee5": {
+      "label": "AV File 1",
+      "file_url": "https://ia600505.us.archive.org/6/items/ai-reporter-video-on-canada/AI%20Reporter%20Video%20on%20Canada.mp4 ",
+      "duration": 1258,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-02-27T22:02:08.027Z",
+  "created_by": "trentwintermeier",
+  "label": "AI Reporter on Canada blocking banks",
+  "updated_at": "2026-02-27T22:02:08.027Z",
+  "updated_by": "trentwintermeier",
+  "rights_statement": ""
+}
