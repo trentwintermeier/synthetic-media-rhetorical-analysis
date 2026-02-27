@@ -1,12 +1,21 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-02-27T21:58:55.610Z",
   "created_by": "trentwintermeier",
   "title": "Synthetic Media Rhetorical Analysis",
-  "updated_at": "2026-02-27T21:58:55.610Z",
+  "updated_at": "2026-02-27T22:41:46.878Z",
   "updated_by": "trentwintermeier",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
