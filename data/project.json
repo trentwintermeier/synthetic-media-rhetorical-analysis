@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "trentwintermeier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112954339?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "trentwintermeier",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-02-27T21:58:55.571Z",
-    "updated_at": "2026-02-27T21:58:55.571Z"
-  }
+    "updated_at": "2026-02-27T21:58:55.571Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "b3613e07-8757-40d5-853f-1cd526616cb2": {
+      "content": [],
+      "created_at": "2026-02-27T21:58:55.610Z",
+      "created_by": "trentwintermeier",
+      "title": "Synthetic Media Rhetorical Analysis",
+      "updated_at": "2026-02-27T21:58:55.610Z",
+      "updated_by": "trentwintermeier",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "b3613e07-8757-40d5-853f-1cd526616cb2"
+  ]
 }
