@@ -94,15 +94,13 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
+      "uuid": "d988da54-d642-45f7-935b-6a248574d7d4",
+      "includes": [
+        "media",
+        "annotations",
+        "label"
+      ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -168,7 +166,13 @@
       ]
     },
     {
-      "type": "paragraph",
+      "uuid": "c7576b22-6e03-4db9-94db-bba82741f7bf",
+      "includes": [
+        "media",
+        "annotations",
+        "label"
+      ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -227,6 +231,29 @@
     },
     {
       "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "1696ecff-488f-4798-9e20-3c4a13e2aa35",
+      "includes": [
+        "media",
+        "annotations",
+        "label"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -242,6 +269,6 @@
   "slug": "ai-disinformation-rhetorics",
   "created_at": "2026-02-27T22:12:17.792Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2026-02-27T22:12:17.792Z",
+  "updated_at": "2026-02-27T22:13:48.580Z",
   "updated_by": "trentwintermeier"
 }
