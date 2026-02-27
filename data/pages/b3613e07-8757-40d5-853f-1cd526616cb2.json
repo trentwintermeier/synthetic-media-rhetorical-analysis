@@ -50,14 +50,6 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "grid",
       "layout": [
         3,
@@ -77,15 +69,7 @@
             },
             {
               "type": "image",
-              "url": "https://ia903102.us.archive.org/6/items/best1_202602/deepfake.avif",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
+              "url": "https://ia903102.us.archive.org/6/items/best1_202602/deepfakebest.avif",
               "children": [
                 {
                   "text": ""
@@ -98,7 +82,8 @@
                 {
                   "text": "AI Disinformation Rhetorics",
                   "bold": true,
-                  "link": "https://trentwintermeier.github.io/synthetic-media-rhetorical-analysis/pages/ai-disinformation-rhetorics/"
+                  "link": "https://trentwintermeier.github.io/synthetic-media-rhetorical-analysis/pages/ai-disinformation-rhetorics/",
+                  "textSize": "heading-two"
                 }
               ],
               "align": "left"
@@ -126,14 +111,6 @@
               ]
             },
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "grid",
               "layout": [
                 6
@@ -142,7 +119,8 @@
                 {
                   "text": "AI, Rhetoric, and Influencer Deepfakes",
                   "bold": true,
-                  "link": "https://trentwintermeier.github.io/synthetic-media-rhetorical-analysis/pages/rhetoric-ai-and-influencer-deepfakes/"
+                  "link": "https://trentwintermeier.github.io/synthetic-media-rhetorical-analysis/pages/rhetoric-ai-and-influencer-deepfakes/",
+                  "textSize": "heading-two"
                 }
               ]
             }
@@ -190,7 +168,9 @@
               "children": [
                 {
                   "text": "Synthetic Media: AI and ICE",
-                  "bold": true
+                  "bold": true,
+                  "textSize": "heading-two",
+                  "link": "https://trentwintermeier.github.io/synthetic-media-rhetorical-analysis/pages/synthetic-media-ai-and-ice/"
                 }
               ]
             }
@@ -229,7 +209,9 @@
               "children": [
                 {
                   "text": "The Rhetoric of AI Slop",
-                  "bold": true
+                  "bold": true,
+                  "textSize": "heading-two",
+                  "link": "https://trentwintermeier.github.io/synthetic-media-rhetorical-analysis/pages/the-rhetoric-of-ai-slop/"
                 }
               ]
             }
@@ -260,7 +242,9 @@
               "children": [
                 {
                   "text": "Rhetorics of AI-Generated Commercials",
-                  "bold": true
+                  "bold": true,
+                  "textSize": "heading-two",
+                  "link": "https://trentwintermeier.github.io/synthetic-media-rhetorical-analysis/pages/rhetorics-of-ai-generated-commercials/"
                 }
               ]
             }
@@ -282,7 +266,9 @@
               "children": [
                 {
                   "text": "Works Cited",
-                  "bold": true
+                  "bold": true,
+                  "textSize": "heading-two",
+                  "link": "https://trentwintermeier.github.io/synthetic-media-rhetorical-analysis/pages/works-cited/"
                 }
               ]
             }
@@ -341,7 +327,7 @@
   "created_at": "2026-02-27T21:58:55.610Z",
   "created_by": "trentwintermeier",
   "title": "Synthetic Media Rhetorical Analysis",
-  "updated_at": "2026-02-27T23:04:13.687Z",
+  "updated_at": "2026-02-27T23:12:14.661Z",
   "updated_by": "trentwintermeier",
   "autogenerate": {
     "enabled": false,
