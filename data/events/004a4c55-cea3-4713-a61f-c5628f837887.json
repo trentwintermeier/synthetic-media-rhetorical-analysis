@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "62655a18-6abd-48d5-8c53-6abc080c6581": {
+      "label": "AV File 1",
+      "file_url": "https://ia902807.us.archive.org/32/items/aqo-8-cgmlnkck-w-8-nur-5p-zz-go-1a-rp-7h-c-1-uic-2u-azqh-fjc-wfso-1-fzisk-6-ln-e/AQO8CGMLnkckW8NUR5pZzGO1aRP7hC1Uic2uAZqhFjcWFSo1FZIsk6Ln_eHE9cErx8ijhuWWVqT0_Xn2wUBS9noBAbrsI1ncsslWOPdbLV-lxg.mp4",
+      "duration": 10,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-02-28T19:47:56.846Z",
+  "created_by": "trentwintermeier",
+  "label": "ICE agents at a Latin restaurant",
+  "updated_at": "2026-02-28T19:47:56.846Z",
+  "updated_by": "trentwintermeier",
+  "rights_statement": ""
+}
