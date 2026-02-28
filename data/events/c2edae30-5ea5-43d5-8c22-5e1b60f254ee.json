@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "89ae7324-47ec-487d-baa4-f9e2f26dd3ad": {
+      "label": "AV File 1",
+      "file_url": "https://ia600701.us.archive.org/16/items/aqpkr-je-3-uhs-evd-r-39u-xj-1-qfv-5w-gtq-zh-e-8-jvqdvah-7h-mk-l-4rt-qu-zk-6-wvfn/AQPkrJe3UHs-EVdR39uXJ1Qfv5wGtqZhE8JVQDVAH7hMkL4rt-QuZK6WvfnKFH4_zeOJ0RD0ykD1Sm5wBJSoLLFzF7L_6CfDRI80N_6VS4qnoQ.mp4",
+      "duration": 10,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-02-28T19:47:37.058Z",
+  "created_by": "trentwintermeier",
+  "label": "ICE chased by 'drag queens'",
+  "updated_at": "2026-02-28T19:47:37.058Z",
+  "updated_by": "trentwintermeier",
+  "rights_statement": ""
+}
