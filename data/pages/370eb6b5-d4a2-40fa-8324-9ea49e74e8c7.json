@@ -64,7 +64,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Principal Fights ICE in Front of School"
+          "text": "Principal Fights ICE in Front of School",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -95,17 +96,12 @@
       ]
     },
     {
-      "type": "paragraph",
-      "align": "justify",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "justify",
+      "uuid": "19f11f41-04d1-4f1f-b7ca-bbfd750fac6c",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -141,7 +137,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "ICE Agents at a Latin Restaurant"
+          "text": "ICE Agents at a Latin Restaurant",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -172,17 +169,12 @@
       ]
     },
     {
-      "type": "paragraph",
-      "align": "justify",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "justify",
+      "uuid": "004a4c55-cea3-4713-a61f-c5628f837887",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -218,7 +210,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Elderly Woman Resists ICE"
+          "text": "Elderly Woman Resists ICE",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -249,8 +242,12 @@
       ]
     },
     {
-      "type": "paragraph",
-      "align": "justify",
+      "uuid": "9093d159-07cc-4caa-8872-67316ece7992",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -259,16 +256,6 @@
     },
     {
       "type": "paragraph",
-      "align": "justify",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "justify",
       "children": [
         {
           "text": ""
@@ -295,7 +282,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "ICE Agents Chased by \"Drag Queens\""
+          "text": "ICE Agents Chased by \"Drag Queens\"",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -318,7 +306,6 @@
     },
     {
       "type": "paragraph",
-      "align": "justify",
       "children": [
         {
           "text": ""
@@ -326,16 +313,12 @@
       ]
     },
     {
-      "type": "paragraph",
-      "align": "justify",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
+      "uuid": "c2edae30-5ea5-43d5-8c22-5e1b60f254ee",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -359,6 +342,6 @@
   "slug": "synthetic-media-ai-and-ice",
   "created_at": "2026-02-27T23:02:54.169Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2026-02-28T19:53:49.681Z",
+  "updated_at": "2026-02-28T19:55:46.542Z",
   "updated_by": "trentwintermeier"
 }
