@@ -7,6 +7,160 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Works Cited",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Current - All Faculty - Faculty & Research - Harvard Business School",
+          "italic": true
+        },
+        {
+          "text": ", www.hbs.edu/faculty/Pages/browse.aspx?faculty=Current. Accessed 28 Feb. 2026."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Feher, Katalin. "
+        },
+        {
+          "text": "Generative AI, Media, and Society",
+          "italic": true
+        },
+        {
+          "text": ". Routledge, 2025. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.4324/9781003591023",
+          "children": [
+            {
+              "text": "https://doi.org/10.4324/9781003591023"
+            }
+          ]
+        },
+        {
+          "text": " . Accessed 24 Feb. 2026."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“THE infamous AI McDonald’s Ad in Full.” "
+        },
+        {
+          "text": "YouTube",
+          "italic": true
+        },
+        {
+          "text": ", uploaded by Kyle Balmer, 10 Dec. 2025, youtube.com/watch?v=LYz-5cL-BhA. Accessed 18 Feb. 2026."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Wilkins, Joe. “McDonald’s Issues Extremely Weird Response to Its Disastrous AI Ad.” "
+        },
+        {
+          "text": "Futurism",
+          "italic": true
+        },
+        {
+          "text": ", 11 Dec. 2025, futurism.com/artificial-intelligence/mcdonalds-ai-commercial. Accessed 24 Feb. 2026."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "YouTube",
+          "italic": true
+        },
+        {
+          "text": ", www.youtube.com/watch?v=pkeWRI2yJGM. Accessed 27 Feb. 2026."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Zeitchik, Steven. “The First Mainly AI-Generated Super Bowl Ad Is Here, for Better or Worse.” "
+        },
+        {
+          "text": "The Hollywood Reporter",
+          "italic": true
+        },
+        {
+          "text": ", 24 Feb. 2026, www.hollywoodreporter.com/business/digital/svedka-super-bowl-ad-ai-watch-1236493612/. Accessed 27 Feb. 2026."
+        }
+      ]
     }
   ],
   "title": "Works Cited",
@@ -17,6 +171,6 @@
   "slug": "works-cited",
   "created_at": "2026-02-27T23:03:28.882Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2026-02-27T23:03:28.882Z",
+  "updated_at": "2026-02-28T19:46:18.177Z",
   "updated_by": "trentwintermeier"
 }
