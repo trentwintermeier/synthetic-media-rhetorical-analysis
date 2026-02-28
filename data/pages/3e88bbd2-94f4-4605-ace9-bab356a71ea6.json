@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "c2edae30-5ea5-43d5-8c22-5e1b60f254ee",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-02-28T19:47:37.448Z",
   "created_by": "trentwintermeier",
   "title": "ICE chased by 'drag queens'",
   "slug": "ice-chased-by-drag-queens",
-  "updated_at": "2026-02-28T19:47:37.448Z",
+  "updated_at": "2026-02-28T19:48:55.428Z",
   "updated_by": "trentwintermeier",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "c2edae30-5ea5-43d5-8c22-5e1b60f254ee"
   }
