@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "032a4ecf-f73b-4a6a-b026-d67eb7862524": {
+      "label": "AV File 1",
+      "file_url": "https://ia601901.us.archive.org/3/items/olympics-ai-video/Olympics_AI_Video.mp4",
+      "duration": 71,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-02-28T19:37:02.286Z",
+  "created_by": "trentwintermeier",
+  "label": "2026 Winter Olympics",
+  "updated_at": "2026-02-28T19:37:02.286Z",
+  "updated_by": "trentwintermeier",
+  "rights_statement": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+}
