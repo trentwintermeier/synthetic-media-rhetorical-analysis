@@ -37,7 +37,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This is a collection of AVAnnotate projects created by students in RHE 309J: Rhetoric of AI in spring 2026."
+          "text": "This is a collection of AVAnnotate projects created by students in RHE 309J: Rhetoric of AI in spring 2026. The course explores the literacies required for critical engagement with generative artificial intelligence across contexts relevant to writing. In this assignment module, the term “synthetic\" refers to audio, video, text, or imagery that has been produced or manipulated by generative artificial intelligence (GenAI). The assignment culminated in an exhibit (below) where students rhetorically analyze synthetic audiovisual material to not only better navigate and interrogate this media in the real world, but also begin to identify how GenAI produces and manipulates content to give it new meaning and rhetorical force."
         }
       ]
     },
@@ -45,9 +45,12 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "bold": true,
+          "link": "https://trentwintermeier.github.io/synthetic-media-rhetorical-analysis/pages/ai-disinformation-rhetorics/"
         }
-      ]
+      ],
+      "align": "left"
     },
     {
       "type": "grid",
@@ -61,32 +64,25 @@
           "children": [
             {
               "type": "paragraph",
+              "align": "left",
               "children": [
                 {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://ia903102.us.archive.org/6/items/best1_202602/deepfakebest.avif",
-              "children": [
-                {
+                  "bold": true,
+                  "link": "https://trentwintermeier.github.io/synthetic-media-rhetorical-analysis/pages/ai-disinformation-rhetorics/",
                   "text": ""
                 }
               ]
             },
             {
               "type": "paragraph",
+              "align": "left",
               "children": [
                 {
-                  "text": "AI Disinformation Rhetorics",
                   "bold": true,
                   "link": "https://trentwintermeier.github.io/synthetic-media-rhetorical-analysis/pages/ai-disinformation-rhetorics/",
-                  "textSize": "heading-two"
+                  "text": "AI Disinformation Rhetorics"
                 }
-              ],
-              "align": "left"
+              ]
             }
           ]
         },
@@ -94,19 +90,15 @@
           "type": "column",
           "children": [
             {
-              "type": "paragraph",
+              "type": "grid",
+              "layout": [
+                6
+              ],
               "children": [
                 {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://ia903102.us.archive.org/6/items/best1_202602/ai1.avif",
-              "children": [
-                {
-                  "text": ""
+                  "text": "",
+                  "bold": true,
+                  "link": "https://trentwintermeier.github.io/synthetic-media-rhetorical-analysis/pages/rhetoric-ai-and-influencer-deepfakes/"
                 }
               ]
             },
@@ -117,10 +109,9 @@
               ],
               "children": [
                 {
-                  "text": "AI, Rhetoric, and Influencer Deepfakes",
                   "bold": true,
                   "link": "https://trentwintermeier.github.io/synthetic-media-rhetorical-analysis/pages/rhetoric-ai-and-influencer-deepfakes/",
-                  "textSize": "heading-two"
+                  "text": "AI, Rhetoric, and Influencer Deepfakes"
                 }
               ]
             }
@@ -138,23 +129,6 @@
         {
           "type": "column",
           "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://ia903102.us.archive.org/6/items/best1_202602/best1.avif",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
             {
               "type": "paragraph",
               "children": [
@@ -169,7 +143,6 @@
                 {
                   "text": "Synthetic Media: AI and ICE",
                   "bold": true,
-                  "textSize": "heading-two",
                   "link": "https://trentwintermeier.github.io/synthetic-media-rhetorical-analysis/pages/synthetic-media-ai-and-ice/"
                 }
               ]
@@ -183,35 +156,19 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://ia903102.us.archive.org/6/items/best1_202602/ai2.avif",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "The Rhetoric of AI Slop",
+                  "text": "",
                   "bold": true,
-                  "textSize": "heading-two",
                   "link": "https://trentwintermeier.github.io/synthetic-media-rhetorical-analysis/pages/the-rhetoric-of-ai-slop/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "link": "https://trentwintermeier.github.io/synthetic-media-rhetorical-analysis/pages/the-rhetoric-of-ai-slop/",
+                  "text": "The Rhetoric of AI Slop"
                 }
               ]
             }
@@ -243,7 +200,6 @@
                 {
                   "text": "Rhetorics of AI-Generated Commercials",
                   "bold": true,
-                  "textSize": "heading-two",
                   "link": "https://trentwintermeier.github.io/synthetic-media-rhetorical-analysis/pages/rhetorics-of-ai-generated-commercials/"
                 }
               ]
@@ -267,7 +223,6 @@
                 {
                   "text": "Works Cited",
                   "bold": true,
-                  "textSize": "heading-two",
                   "link": "https://trentwintermeier.github.io/synthetic-media-rhetorical-analysis/pages/works-cited/"
                 }
               ]
@@ -327,7 +282,7 @@
   "created_at": "2026-02-27T21:58:55.610Z",
   "created_by": "trentwintermeier",
   "title": "Synthetic Media Rhetorical Analysis",
-  "updated_at": "2026-02-27T23:12:14.661Z",
+  "updated_at": "2026-02-28T20:11:38.520Z",
   "updated_by": "trentwintermeier",
   "autogenerate": {
     "enabled": false,
