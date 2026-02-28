@@ -37,7 +37,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This is a collection of AVAnnotate projects created by students in RHE 309J: Rhetoric of AI in spring 2026. The course explores the literacies required for critical engagement with generative artificial intelligence across contexts relevant to writing. In this assignment module, the term “synthetic\" refers to audio, video, text, or imagery that has been produced or manipulated by generative artificial intelligence (GenAI). The assignment culminated in an exhibit (below) where students rhetorically analyzed synthetic audiovisual material to not only better navigate and interrogate this media in the real world, but also begin to identify how GenAI produces and manipulates content to give it new meaning and rhetorical force."
+          "text": "This is a collection of AVAnnotate projects created by students in RHE 309J: Rhetoric of AI in spring 2026. The course explores the literacies required for critical engagement with generative artificial intelligence across contexts relevant to writing. In this assignment module, the term “synthetic\" refers to audio, video, text, or imagery that has been produced or manipulated by generative artificial intelligence (GenAI). The assignment culminated in an exhibit (below) where students rhetorically analyzed synthetic audiovisual material to not only better navigate and interrogate this media in the real world but to identify how GenAI produces and manipulates content to give it new meaning and rhetorical force."
         }
       ]
     },
@@ -395,7 +395,7 @@
   "created_at": "2026-02-27T21:58:55.610Z",
   "created_by": "trentwintermeier",
   "title": "Synthetic Media Rhetorical Analysis",
-  "updated_at": "2026-02-28T20:21:16.978Z",
+  "updated_at": "2026-02-28T20:30:58.744Z",
   "updated_by": "trentwintermeier",
   "autogenerate": {
     "enabled": false,
