@@ -20,8 +20,11 @@
   ],
   "created_at": "2026-02-28T19:38:02.266Z",
   "created_by": "trentwintermeier",
-  "label": "McDonalds",
-  "updated_at": "2026-02-28T19:38:02.266Z",
+  "label": "McDonalds Advertisement",
+  "updated_at": "2026-02-28T19:38:20.527Z",
   "updated_by": "trentwintermeier",
-  "rights_statement": ""
+  "rights_statement": "",
+  "av_file_order": [
+    "935ad18e-3a42-44a9-af97-6cfc7a55d289"
+  ]
 }
