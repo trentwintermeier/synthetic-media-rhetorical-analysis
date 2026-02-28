@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "ffbb0a20-a593-4802-8f42-7261e5e77465": {
+      "label": "AV File 1",
+      "file_url": "https://ia800806.us.archive.org/25/items/aqnox-ze-p-7ote-tjis-tnekurzfk-9-s-8-solhjv-7-g-gwpxz-k-1-xih-2-e-3jl-vf-hb-f-0-/AQNOx_ZeP7oteTJisTNEkurzfk9S8SOlhjv7G-GWPxzK1XIh2E3jlVF-HbF0EHmeHISTnk4OM53aWtnoGqEsL6YHm_ArikfMh0KedEoL4r9D_Q.mp4",
+      "duration": 15,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-02-28T19:48:39.223Z",
+  "created_by": "trentwintermeier",
+  "label": "Principal fights ICE agents in front of School",
+  "updated_at": "2026-02-28T19:48:39.223Z",
+  "updated_by": "trentwintermeier",
+  "rights_statement": ""
+}
