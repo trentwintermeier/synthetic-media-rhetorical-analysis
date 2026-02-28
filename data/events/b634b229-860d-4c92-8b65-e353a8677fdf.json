@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "1f1fa947-75b5-4951-94f3-4d3fa80a8bd7": {
+      "label": "AV File 1",
+      "file_url": "https://ia601408.us.archive.org/15/items/svedka_202602/svedka.mp4",
+      "duration": 30,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-02-28T19:37:26.424Z",
+  "created_by": "trentwintermeier",
+  "label": "Svedka Super Bowl Ad",
+  "updated_at": "2026-02-28T19:37:26.424Z",
+  "updated_by": "trentwintermeier",
+  "rights_statement": ""
+}
