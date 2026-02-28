@@ -37,7 +37,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This is a collection of AVAnnotate projects created by students in RHE 309J: Rhetoric of AI in spring 2026. The course explores the literacies required for critical engagement with generative artificial intelligence across contexts relevant to writing. In this assignment module, the term “synthetic\" refers to audio, video, text, or imagery that has been produced or manipulated by generative artificial intelligence (GenAI). The assignment culminated in an exhibit (below) where students rhetorically analyze synthetic audiovisual material to not only better navigate and interrogate this media in the real world, but also begin to identify how GenAI produces and manipulates content to give it new meaning and rhetorical force."
+          "text": "This is a collection of AVAnnotate projects created by students in RHE 309J: Rhetoric of AI in spring 2026. The course explores the literacies required for critical engagement with generative artificial intelligence across contexts relevant to writing. In this assignment module, the term “synthetic\" refers to audio, video, text, or imagery that has been produced or manipulated by generative artificial intelligence (GenAI). The assignment culminated in an exhibit (below) where students rhetorically analyzed synthetic audiovisual material to not only better navigate and interrogate this media in the real world, but also begin to identify how GenAI produces and manipulates content to give it new meaning and rhetorical force."
         }
       ]
     },
@@ -74,6 +74,31 @@
               ]
             },
             {
+              "type": "image",
+              "url": "https://ia903102.us.archive.org/6/items/best1_202602/synth.avif",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "paragraph",
               "align": "left",
               "children": [
@@ -99,6 +124,31 @@
                   "text": "",
                   "bold": true,
                   "link": "https://trentwintermeier.github.io/synthetic-media-rhetorical-analysis/pages/rhetoric-ai-and-influencer-deepfakes/"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://ia903102.us.archive.org/6/items/best1_202602/synth2.avif",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             },
@@ -138,6 +188,23 @@
               ]
             },
             {
+              "type": "image",
+              "url": "https://ia903102.us.archive.org/6/items/best1_202602/synth%204.avif",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "paragraph",
               "children": [
                 {
@@ -159,6 +226,23 @@
                   "text": "",
                   "bold": true,
                   "link": "https://trentwintermeier.github.io/synthetic-media-rhetorical-analysis/pages/the-rhetoric-of-ai-slop/"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://ia903102.us.archive.org/6/items/best1_202602/synth3.avif",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             },
@@ -195,6 +279,23 @@
               ]
             },
             {
+              "type": "image",
+              "url": "https://ia903102.us.archive.org/6/items/best1_202602/synth%205.avif",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "paragraph",
               "children": [
                 {
@@ -209,6 +310,23 @@
         {
           "type": "column",
           "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://ia903102.us.archive.org/6/items/best1_202602/synth6.avif",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
             {
               "type": "paragraph",
               "children": [
@@ -282,7 +400,7 @@
   "created_at": "2026-02-27T21:58:55.610Z",
   "created_by": "trentwintermeier",
   "title": "Synthetic Media Rhetorical Analysis",
-  "updated_at": "2026-02-28T20:11:38.520Z",
+  "updated_at": "2026-02-28T20:16:49.571Z",
   "updated_by": "trentwintermeier",
   "autogenerate": {
     "enabled": false,
