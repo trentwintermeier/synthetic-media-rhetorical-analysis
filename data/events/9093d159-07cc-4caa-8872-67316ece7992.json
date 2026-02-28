@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "4dd7b349-9b4e-4f6a-8771-1e26c94960f0": {
+      "label": "AV File 1",
+      "file_url": "https://ia800105.us.archive.org/28/items/aqnm-yv-2q-kv-3j-urz-2-faz-m-q-8-ze-gk-d-4o-x-6hh-4-oku-l-7-i-due-5vu-qmv-ncx-yj/AQNM-YV2qKV3jURZ2FAZ-mQ8ZeGkD4oX6hh4OkuL7I_due5vuQMvNcxYJAs4-Rm52Qz0G3sOtTOsOPJlA2CDIqsB8AzxmWS4gzRGBhrNu5yhMg.mp4",
+      "duration": 10,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-02-28T19:48:21.147Z",
+  "created_by": "trentwintermeier",
+  "label": "Elderly Woman Resists ICE",
+  "updated_at": "2026-02-28T19:48:21.147Z",
+  "updated_by": "trentwintermeier",
+  "rights_statement": ""
+}
