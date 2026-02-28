@@ -354,6 +354,59 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Deiss, Heather, and Abigail Bowman. “Apollo 11.” Nasa.Gov, 5 Jan. 2024, www.nasa.gov/mission/apollo-11/. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nThaler, F., Haug, M., Gewald, H., & Brune, P. (2024). The Context Sets the Tone: A Literature Review on Emotion Recognition from Speech Using AI. In F. Pennarola, J. Pallud, & A. M. Braccini (Eds.), "
+        },
+        {
+          "text": "Technologies for Digital Transformation",
+          "italic": true
+        },
+        {
+          "text": " (Vol. 64, pp. 129–143). Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-52120-1_8\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Dale, Daniel. \"Fact Check: Nine Trump False Claims about Canada | CNN Politics.\" CNN, 12 Mar. 2025, www.cnn.com/2025/03/12/politics/fact-check-trump-canada-claims.\n\nSoto-Sanfiel, María T, and Qiaofei Wu. “How Audiences Make Sense of Deepfake Resurrections: A Multilevel Analysis of Realism, Ethics, and Cultural Meaning.” "
+        },
+        {
+          "text": "Computers in Human Behavior",
+          "italic": true
+        },
+        {
+          "text": " [OXFORD], vol. 174, no. 108822, 2026, https://doi.org/10.1016/j.chb.2025.108822.\n\nGamage, Dilrukshi, et al. \"Are Deepfakes Concerning? Analyzing Conversations of Deepfakes on Reddit and Exploring Societal Implications.\" "
+        },
+        {
+          "text": "Association for Computing Machinery",
+          "italic": true
+        },
+        {
+          "text": ", no. 103, 28 Apr. 2022, pp. 1-19, https://doi.org/10.1145/3491102.3517446. Accessed 26 Feb. 2026.\n\nSmithsonian National Air and Space Museum. (n.d.). Why do people persist in denying the Moon landings? - google arts & culture. Google Arts and Culture. https://artsandculture.google.com/story/why-do-people-persist-in-denying-the-moon-landings-smithsonian-national-air-and-space-museum/IwUx9FvXtgMrJA?hl=en\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -367,6 +420,6 @@
   "slug": "works-cited",
   "created_at": "2026-02-27T23:03:28.882Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2026-02-28T19:57:27.094Z",
+  "updated_at": "2026-02-28T20:17:58.791Z",
   "updated_by": "trentwintermeier"
 }
