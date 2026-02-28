@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "004a4c55-cea3-4713-a61f-c5628f837887",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-02-28T19:47:57.068Z",
   "created_by": "trentwintermeier",
   "title": "ICE agents at a Latin restaurant",
   "slug": "ice-agents-at-a-latin-restaurant",
-  "updated_at": "2026-02-28T19:47:57.068Z",
+  "updated_at": "2026-02-28T19:48:58.013Z",
   "updated_by": "trentwintermeier",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "004a4c55-cea3-4713-a61f-c5628f837887"
   }
