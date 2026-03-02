@@ -22,7 +22,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Analyzing the synthetic media created just because it can be created."
+          "text": "This project analyzes synthetic media created just because it can be created."
         }
       ]
     },
@@ -54,7 +54,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Movie Clips and AI"
+          "text": "Movie Clips and AI",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -103,8 +104,12 @@
       ]
     },
     {
-      "type": "paragraph",
-      "align": "justify",
+      "uuid": "dfe0e0c2-20bc-461e-9852-35ade4d0ddb6",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -140,7 +145,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Animals and AI"
+          "text": "Animals and AI",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -170,6 +176,21 @@
       ]
     },
     {
+      "uuid": "f9a4746a-1c23-405c-b723-48746614eff6",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -197,7 +218,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Animated Cartoons and AI"
+          "text": "Animated Cartoons and AI",
+          "bold": true
         }
       ]
     },
@@ -222,7 +244,28 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "36f737ba-ca25-4b45-9dd7-87e5f0bc7cfa",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -246,7 +289,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Animated Cartoons and AI Part 2"
+          "text": "Animated Cartoons and AI Part 2",
+          "bold": true
         }
       ]
     },
@@ -268,6 +312,19 @@
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "b0f9026e-9699-4808-9156-a50aca5d761b",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -299,6 +356,6 @@
   "slug": "the-rhetoric-of-ai-slop",
   "created_at": "2026-02-27T23:02:32.785Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2026-03-02T17:30:16.401Z",
+  "updated_at": "2026-03-02T17:32:34.916Z",
   "updated_by": "trentwintermeier"
 }
