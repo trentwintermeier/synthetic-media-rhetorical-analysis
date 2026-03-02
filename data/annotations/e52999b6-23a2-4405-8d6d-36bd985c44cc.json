@@ -1,0 +1,87 @@
+{
+  "event_id": "f9a4746a-1c23-405c-b723-48746614eff6",
+  "source_id": "c251c0c0-cd98-4666-8a0a-35cd9f6ed02b",
+  "set": "Default",
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 15,
+      "annotation": [
+        {
+          "text": "At 0:03, the video shows the animal talking with its mouth moving in sync with the voice. Even though it looks convincing at first, you can tell it’s AI because the mouth movements are slightly exaggerated. This shows that the video was created using generative technology rather than being real. The reason this video exists (its exigence) connects to how popular AI content has become online. People are fascinated by what AI can do, especially when it makes animals seem human. By showing something impossible but believable, the video highlights how AI can blur the line between what is real and what is digitally created."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Exigence"
+        }
+      ],
+      "uuid": "5599e26c-64ef-498f-abe2-b33358093bf3"
+    },
+    {
+      "start_time": 16,
+      "end_time": 28,
+      "annotation": [
+        {
+          "text": "From 0:16 to 0:28, the animal makes a funny comment about its owner. This part is clearly meant to be relatable, especially for people who have pets. The video gives the animal human thoughts and emotions, which makes it easier for viewers to connect with it. This is an appeal to pathos because it makes the audience feel amused and emotionally involved. Instead of focusing on the fact that it’s AI-generated, viewers focus on the humor. By using common pet-owner situations, the video builds a shared understanding with the audience and increases the chances that people will like or share it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        }
+      ],
+      "uuid": "c47e9063-a3bb-4757-a66a-2a4383d2b486"
+    },
+    {
+      "start_time": 29,
+      "end_time": 42,
+      "annotation": [
+        {
+          "text": "Between 0:29 and 0:42, the voice sounds confident and pretty well timed with the animal’s movements. Even though the animal appears to be talking, the real communicator is the person who edited and created the video. The quality of the sound and syncing shows that the creator knows how to use AI tools effectively. This builds ethos because it shows technical skill and creativity. The video doesn’t try to trick the audience into thinking the animal can actually talk. Instead, it shows off the creator’s ability to use technology in an entertaining way, which builds credibility in a digital media space."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        }
+      ],
+      "uuid": "5abcf0f4-8451-4597-91e7-fde75d111d25"
+    },
+    {
+      "start_time": 48,
+      "end_time": 59,
+      "annotation": [
+        {
+          "text": "In the final seconds (0:48–0:59), the video ends quickly with a punchline. This short ending style is common on platforms like YouTube Shorts or Instagram Reels. The main purpose of the video is entertainment, but it is also clearly designed to get engagement, such as likes, comments, and shares. Because it is short and funny, it fits perfectly into social media feeds where attention spans are limited. The use of AI helps the video stand out from other content. This shows how synthetic media is often shaped by social media algorithms that reward humor, creativity, and fast pacing."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "1ea4b6ed-50c2-4580-8659-109aa3c025bd"
+    },
+    {
+      "start_time": 59,
+      "end_time": 61,
+      "annotation": [
+        {
+          "text": "\"The purpose of this AI Slop\" video about talking animals is to provide a little bit of a glimpse into what animals are thinking and what they would say if they had the chance to be interviewed. Everyone has wondered what an animal thinks of us or what they might say, so this video is a direct example of what they might say, with a brilliant twist of humor. Each answer was connected to the animal in a way that made it funny for the audience, while also confirming our ideas regarding what these animals might have to say. I feel that this video has succeeded regarding its goal of bringing the impossible voices of animals to life in a way that brings joy. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Message"
+        }
+      ],
+      "uuid": "5951c016-00ba-466d-ba5e-16d88250f931"
+    }
+  ]
+}

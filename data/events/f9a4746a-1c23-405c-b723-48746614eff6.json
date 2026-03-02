@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "c251c0c0-cd98-4666-8a0a-35cd9f6ed02b": {
+      "label": "AV File 1",
+      "file_url": "https://ia800701.us.archive.org/22/items/videoplayback_20260223_1559/videoplayback.mp4",
+      "duration": 61,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-03-02T17:22:41.831Z",
+  "created_by": "trentwintermeier",
+  "label": "Talking Animals",
+  "updated_at": "2026-03-02T17:22:41.831Z",
+  "updated_by": "trentwintermeier",
+  "rights_statement": ""
+}
