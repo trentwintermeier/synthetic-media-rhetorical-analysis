@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "5266d113-372e-4c7d-94ac-8bb918521c0d": {
+      "label": "AV File 1",
+      "file_url": "https://ia802900.us.archive.org/4/items/videoplayback_20260223_1556/videoplayback.mp4",
+      "duration": 105,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-03-02T17:22:11.581Z",
+  "created_by": "trentwintermeier",
+  "label": "Harry Potter Ruined by AI",
+  "updated_at": "2026-03-02T17:22:11.581Z",
+  "updated_by": "trentwintermeier",
+  "rights_statement": ""
+}

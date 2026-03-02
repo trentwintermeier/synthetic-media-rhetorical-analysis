@@ -1,0 +1,111 @@
+{
+  "event_id": "dfe0e0c2-20bc-461e-9852-35ade4d0ddb6",
+  "source_id": "5266d113-372e-4c7d-94ac-8bb918521c0d",
+  "set": "Default",
+  "annotations": [
+    {
+      "start_time": 9,
+      "end_time": 21,
+      "annotation": [
+        {
+          "text": "The AI-edited Harry Potter video primarily operates through the manipulation and removal of pathos. The original film relies heavily on emotional tone, using silence, music, and character reactiosn to create tension and wonder. By inserting exaggerated laughter into serious moments, teh AI disrupts that emotional framework. Instead of feeling suspense or empathy, the viewer experiences confusion or discomfort. This deliberate emotional mismatch highlights how essential tone and timing are to storytelling. The absence of appropriaet emotional cues demonstrates that AI can replicate patters but cannot meaningfully interpret emotional context. In doing so, the video becomes a commentary on the limits of artifical intelligence in creative expression. It shows that emotional resonance is not simply a technical feature of media, but something shaped by human understanding, intention, and lived experience. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        }
+      ],
+      "uuid": "ddcd3fc6-63dd-42ec-8173-55cd84a13615"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Although the video appears comedic, it advances a logical argument about artificial itelligence. The structure of the experiment is simple: feed a familiar, emotionally rich film into an AI system and observe how it changes when interpreted through pure pattern recognition. The resulting distrortion functions as evidence supporting a broader claim, that AI lacks contextual judgement and subjective understanding. The humor is therefore not random, it serves as proof of concept. By presenting a well-known narrative and then alterting it in a visibly flawed fashion, the creator invites viewers to draw their own conclusion about AI's limitations. The video's logos lies in its demonstration rather than explanation, showing through contrast how algorithmic processing differs from human storytelling instincts."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        }
+      ],
+      "uuid": "a1cb33e6-529b-4f9d-89df-06e5e3f4e646"
+    },
+    {
+      "start_time": 56,
+      "end_time": 63,
+      "annotation": [
+        {
+          "text": "In the AI-slop Harry Potter video, a scene initially depicting a dramatic Quidditch match is transformed when the AI inserts inappropriate laughter and farting over a broomstick malfunction that ends in a huge fiery explosive crash into the stands. This edit strips the original narrative of suspense and peril, replacing emotional engagement with absurdity. The clash between the original footage's intended tension and the AI's misplaced cues highlights the limitations of AI in interpreting context and audience expectations. Instead of reinforcing the competitive stakes or the characters' fear, the AI's additions render the sequence cartoonish, undermining both character agency and narrative coherence. The audience's familiarity with the source material makes the distortion especially apparent, reinforcing the video's underlying commentary that AI can technically manipulate media but cannot authentically replicate human understanding of tone, emotion, or thematic significance. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        }
+      ],
+      "uuid": "af9e971e-df6d-414f-a5bd-aaf6497cfaf6"
+    },
+    {
+      "start_time": 75,
+      "end_time": 81,
+      "annotation": [
+        {
+          "text": "In the scene where Harry dives for the Snitch and his broom suddenly behaves like a roller coast, the AI edits disrupts the original film's balance within the entire rhetorical triangle: communicator, audience, and message. In the original narrative, the communicator ( the filmmakers) craft a message of a first year students bravery, focus, and rising tension, inviting the audience to feel suspense and admiration for Harry's immense innate skill. However, when the AI transforms the broom into an exaggerated roller-coaster sequence, the message shifts unintentially toward absurdity. The audience's expectations of the movie based on the book clashes with the distorted visual logic, weakening emotional engagement and the filmmakers credibility. The context behind the scene is also crucial as everybody knows its supposed to be a very intense battle between Harry and the Slytherin player, which makes the AI's failure all the more obvious. This moment ultimately serves as a commentary that AI can manipulate spectacles but struggles to preserve the deeper meaning meant by the filmmakers."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Communicator"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Message"
+        }
+      ],
+      "uuid": "3e0ba248-28f5-448b-b8f3-3b7e843707e7"
+    },
+    {
+      "start_time": 25,
+      "end_time": 41,
+      "annotation": [
+        {
+          "text": "In the scene where Harry enters into Olivander's Wand Shop, arguably one of the most important scenes from the franchise where Harry is supposed to get his first wand and creates the backstory of the sister wands with Voldemort, the AI strips the video of any purpose. The filmmakers originally created this scene with the purpose of playing a pivotal role in the hidden plot line for the rest of the franchise and the AI disrupts this by turning Olivander (shopkeeper) into a break dancing old man in the backroom of an office. The story of the sister wands doesn't play a role until much later in the franchise but by turning Olivander into a breakdancing old man in a shop instead of the wand shopkeeper who sells Harry his first wand, the AI effectively cuts out the hidden deeper message that only the most meticulous fans noticed. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Message"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "7a7cb0c9-dfdd-4644-973b-84f1b2d4c9b0"
+    }
+  ]
+}
