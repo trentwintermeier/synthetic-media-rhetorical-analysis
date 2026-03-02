@@ -4,8 +4,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "By Thomas Barrow, Fadi Adnan, Sid Vadlamani, and Alex Ardakani",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "By Thomas Barrow, Fadi Adnan, Sid Vadlamani, and Alex Ardakani"
         }
       ]
     },
@@ -354,6 +363,6 @@
   "slug": "the-rhetoric-of-ai-slop",
   "created_at": "2026-02-27T23:02:32.785Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2026-03-02T17:37:36.658Z",
+  "updated_at": "2026-03-02T17:37:48.468Z",
   "updated_by": "trentwintermeier"
 }
