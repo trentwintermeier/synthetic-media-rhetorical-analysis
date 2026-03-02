@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "ad917f3c-f9eb-4217-bbf3-af4de8f19a01": {
+      "label": "AV File 1",
+      "file_url": "https://ia601004.us.archive.org/12/items/aqph-3-rl-1q-c-1-tmu-lr-1-z-4-sy-sp-7x-uy-ng-xzm-gza-92h-0qm-555-oe-onc-er-ttop-/AQPh3Rl1qC1-tmuLr1Z4SySp7xUyNgXZmGza92h0qm-555OeONcER-TTOP-eBBhRlDKEjCWYxZTDWJKZW7j1oji4-uJNEMqKULzA73Q.mp4",
+      "duration": 60,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-03-02T17:23:31.626Z",
+  "created_by": "trentwintermeier",
+  "label": "Cappuccino Wins Fencing",
+  "updated_at": "2026-03-02T17:23:31.626Z",
+  "updated_by": "trentwintermeier",
+  "rights_statement": ""
+}
