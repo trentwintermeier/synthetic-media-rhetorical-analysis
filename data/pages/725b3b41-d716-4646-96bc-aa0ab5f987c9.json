@@ -179,9 +179,7 @@
       "uuid": "f9a4746a-1c23-405c-b723-48746614eff6",
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "annotations"
       ],
       "type": "event",
       "children": [
@@ -356,6 +354,6 @@
   "slug": "the-rhetoric-of-ai-slop",
   "created_at": "2026-02-27T23:02:32.785Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2026-03-02T17:32:51.039Z",
+  "updated_at": "2026-03-02T17:37:36.658Z",
   "updated_by": "trentwintermeier"
 }
