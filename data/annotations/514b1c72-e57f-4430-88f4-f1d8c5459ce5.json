@@ -1,0 +1,119 @@
+{
+  "event_id": "b0f9026e-9699-4808-9156-a50aca5d761b",
+  "source_id": "e5e17f7e-51b1-4edc-acfe-8852fc7bb39f",
+  "set": "Default",
+  "annotations": [
+    {
+      "start_time": 12,
+      "end_time": 20,
+      "annotation": [
+        {
+          "text": "The scene really leans into emotion to make the viewer feel proud of the wooden child and happy that he’s being accepted. He looks the same as everyone else in the green classroom, which gives the wooden child a sense that he finally belongs. When he randomly stands up and starts dancing, everyone looks at him. The teacher clapping right away is important because it shows an authority figure approving of him, which makes the audience feel even more supportive. When the teacher tells him to sign up for the dance competition, it pushes the idea that he’s not just fitting in, but actually succeeding. The scene happens really fast, but it still creates a strong emotional connection."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Stakeholder"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "0eac1551-ccff-4cf6-b7e5-628b2a2a58ad"
+    },
+    {
+      "start_time": 21,
+      "end_time": 28,
+      "annotation": [
+        {
+          "text": "In this scene, the video builds credibility and a sense of legitimacy around the wooden child’s success by showing him win the school dance competition and stand in first place above the other green students. The winners’ podium ranks the students, and placing him at the top suggests that he has not only fit into the institution but has excelled. The green man in a suit shaking his hand works as a symbol of authority and official recognition, almost like an administrator or sponsor, which shows that his achievement is being validated by the system itself. This moment communicates to the audience that his talent is real and respected, not just accepted by classmates but rewarded. By using these familiar images of competition and ceremony, the video makes his success feel credible and meaningful, which strengthens the impact of the later reveal."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "1c600ec7-6510-4dc8-ae29-9405c4f01f9c"
+    },
+    {
+      "start_time": 29,
+      "end_time": 32,
+      "annotation": [
+        {
+          "text": "This scene focuses on emotional appeal by showing the boy back at home with his wooden parents, still covered in green paint, being embraced and celebrated for his success. The parents’ pride creates a supportive feeling that makes the audience feel happy for him and builds on the idea that his achievements matter not just to him, but also his family. The transition to the airplane, where he sits with his green classmates who all look excited for what is coming next, builds anticipation and a sense of forward momentum. Their shared expressions of joy make it seem like he fully belongs in this group and is moving toward even greater opportunities. These quick visuals enhance the viewer’s emotional connection and make his journey feel like a dream coming true."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Message"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        }
+      ],
+      "uuid": "9cd28a47-02a8-4d05-b4fd-0e23999207d1"
+    },
+    {
+      "start_time": 35,
+      "end_time": 42,
+      "annotation": [
+        {
+          "text": "In this scene, the video strengthens the boy’s credibility by placing him on an international stage and having him win first place again, this time being greeted by Michael Jackson who is a pop icon. The use of such a cultural figure acts as a symbol of authority and excellence, suggesting that the boy’s talent has reached the highest level of recognition. Standing on the podium with both a trophy and a medal confirms his status as the best among his peers, which makes his success official. His facial expression and body language show pure happiness and pride, proving for the audience that all his hard work and earlier acceptance have led to this peak life moment.\n"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "75a8f12c-d4d9-4ce0-994f-2d9c956b5adb"
+    },
+    {
+      "start_time": 43,
+      "end_time": 59,
+      "annotation": [
+        {
+          "text": "This last scene completely shifts the tone of the video. When the champagne washes off the green paint, it creates a moment of shock and panic that makes the audience feel bad for the boy, which is a strong use of pathos. The courtroom introduces ethos because the judge represents authority and his decision is final, even though we have been rooting for the boy the entire time. Showing the parents being taken away by the police raises the emotional stakes and shows real consequences for their dishonesty. When the boy walks into Driftwood Academy looking upset, the message becomes clear that his success was never fully accepted and was based only on his appearance. The wooden student greeting him at the end slightly softens the tone of the moment, but it is still a heavy and dark moment for the wooden boy and his family.\n"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Message"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stakeholder"
+        }
+      ],
+      "uuid": "7cf289da-df1d-4681-b93d-5baa4c365d84"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "e5e17f7e-51b1-4edc-acfe-8852fc7bb39f": {
+      "label": "AV File 1",
+      "file_url": "https://ia600105.us.archive.org/11/items/aqmshqcphm-s-bu-ib-v-8nne-mb-atp-zld-mclo-jf-wldu-7-fe-gn-37hfyn-rmwgf-l-4-d-4u-/AQMshqcphm-sBU-ibV8nne-mbATp-ZldMcloJfWLDu7FeGn37hfynRMWGfL4D4uF-yb-UcjokcNh9x4sKzadoptfv2zB6zD1LUkCF4g.mp4",
+      "duration": 60,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-03-02T17:23:07.239Z",
+  "created_by": "trentwintermeier",
+  "label": "School Disguise Gone Wrong",
+  "updated_at": "2026-03-02T17:23:07.239Z",
+  "updated_by": "trentwintermeier",
+  "rights_statement": ""
+}
