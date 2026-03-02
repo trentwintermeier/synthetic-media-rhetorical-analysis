@@ -471,7 +471,63 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": "\nCook, Robert. “Decoding the Divide: 6 Reasons Why AI Isn’t EI.” Truecolorsintl.com, True Colors International, 4 Jan. 2024, "
+        },
+        {
+          "type": "link",
+          "url": "http://www.truecolorsintl.com/tciblog/decoding-the-divide-five-reasons-why-ai-isnt-ei",
+          "children": [
+            {
+              "text": "www.truecolorsintl.com/tciblog/decoding-the-divide-five-reasons-why-ai-isnt-ei"
+            }
+          ]
+        },
+        {
+          "text": " . "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Freed, Sam. AI and Human Thought and Emotion. 1st ed., Auerbach Publications, 2019, "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1201/9780429001123",
+          "children": [
+            {
+              "text": "https://doi.org/10.1201/9780429001123"
+            }
+          ]
+        },
+        {
+          "text": " ."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "YouTube, YouTube, www.youtube.com/watch?v=LHo4v-kyYYE. Accessed 25 Feb. 2026. "
         }
       ]
     },
@@ -492,6 +548,6 @@
   "slug": "works-cited",
   "created_at": "2026-02-27T23:03:28.882Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2026-02-28T20:19:21.296Z",
+  "updated_at": "2026-03-02T17:33:44.103Z",
   "updated_by": "trentwintermeier"
 }
